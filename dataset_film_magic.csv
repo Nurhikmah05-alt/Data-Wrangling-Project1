@@ -1,0 +1,7 @@
+Movie_ID,Judul,Tahun_Rilis,Genre,Durasi_Menit,Rating_IMDB,Jumlah_Vote,Budget_Juta_USD,Pendapatan_Juta_USD,Negara,Bahasa
+M001,Harry Potter and the Sorcerer's Stone,2001,Fantasy/Adventure,152,7.7,10936000,125.0,974.8,USA/UK,English
+M002,Doctor Strange in the Multiverse of Madness,2022,Fantasy/Action,126,6.9,1053500,414.9,955.8,USA,English
+M003,Fantastic Beasts and Where to Find Them,2016,Fantasy/Adventure,132,7.2,480000,180.0,816.0,USA/UK,English
+M004,The Lord of the Rings: The Return of the King,2003,Fantasy/Adventure,201,9.0,1900000,94.0,1140.6,New Zealand/USA,English
+M005,Oz the Great and Powerful,2013,Fantasy/Adventure,130,6.3,220000,215.0,493.3,USA,English
+M006,The Sorcerer's Apprentice,2010,Fantasy/Adventure,109,6.1,180000,150.0,215.3,USA,English
